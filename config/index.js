@@ -51,7 +51,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "我告诉你我爱苏莹莹，随你说我肉麻，说我无聊，说我臭，说我是猪猡驴子猢狲夜叉小鬼都不相干。"
 
 
     }

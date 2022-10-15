@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "广西",
     // 所在城市
-    CITY: "梧州",
+    CITY: "崇左",
 
     /** 重要节日相关 */
 
